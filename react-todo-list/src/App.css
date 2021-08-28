@@ -1,0 +1,18 @@
+.App {
+    width: 400px;
+    background: rgb(206, 167, 206);
+    margin: auto;
+    padding: 15px;
+}
+h2 {
+    margin-left: 119px;
+    color: rgb(54, 39, 65);
+}
+Form {
+    margin-left: 70px;
+    margin-top: 15px;
+    padding: 10px;
+}
+.app-container {
+    background: rgb(182, 134, 182);
+}
